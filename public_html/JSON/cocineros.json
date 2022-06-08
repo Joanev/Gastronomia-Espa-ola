@@ -1,0 +1,863 @@
+{
+    "cocineros": [
+        {
+            "cocinero": {
+                "@context": "http://schema.org",
+                "@type": "person",
+                "name": "Jordi Cruz",
+                "description": "Se formó como cocinero en la Escuela Superior de Hostelería de Manresa. A los catorce años empezó a trabajar en el restaurante Estany Clar, entre Serchs y Berga, donde recibió su primera estrella Michelin en noviembre de 2004, convirtiéndose a sus 26 años en el chef más joven de España y en el segundo del mundo en recibir esta distinción. En diciembre de 2007 dejó el Estany Clar y pasó a ser gerente y jefe de cocina del restaurante L'Angle del hotel Món Sant Benet (San Fructuoso de Bages). En noviembre de 2008 este establecimiento ganó también su primera estrella Michelin. En mayo de 2010 se incorporó al equipo directivo de ABaC Restaurant & Hotel. El ABaC obtuvo su tercera estrella Michelin el 22 de noviembre de 2019, cifra que actualmente tan solo poseen once restaurantes en toda España. Desde 2013 es jurado del programa de televisión MasterChef, junto a Pepe Rodríguez y Samantha Vallejo-Nágera. En 2014 y 2016, participó junto con Pepe Rodríguez en las Campanadas de Nochevieja en La 1 de Televisión Española. En 2014 apareció en la portada de Men's Health, tras haber perdido 9 kg de peso siguiendo el reto propuesto por la revista.",
+                "image": [
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Jordi cruz/jordi cruz.webp"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Jordi cruz/jordi cruz2.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Jordi cruz/jordi cruz3.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Jordi cruz/jordicruz3.jpg"
+                    }
+                ],
+                "birthDate": "1978-06-29",
+                "birthPlace": "Manresa. Cataluña",
+                "awards": [
+                    "Campeonato de España para Jóvenes Chefs (2002)",
+                    "Premio Internacional de Cocina con Aceite de Oliva (2003)",
+                    "Concurso cocinero del Año (2006)"
+                ],
+                "url": ["audios/JordiCruz/AudioJordi.mp3","audios/JordiCruz/AudioJordi.ogg"]
+            },
+            "restaurantes": {
+                "@context": "http://schema.org",
+                "@type": "LocalBussiness",
+                "restaurant": [
+                    {
+                        "@type": "Restaurant",
+                        "name": "Abac",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 41.41180,
+                            "longitude": 2.13655
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "3"
+                        }
+                    },
+                    {
+                        "@type": "Restaurant",
+                        "name": "Ten's Tapas",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 41.38423,
+                            "longitude": 2.18432
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "0"
+                        }
+                    },
+                    {
+                        "@type": "Restaurant",
+                        "name": "Angle",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 41.38823,
+                            "longitude": 2.15993
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "2"
+                        }
+                    },
+                    {
+                        "@type": "Restaurant",
+                        "name": "Atempo",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 41.39100,
+                            "longitude": 2.1534
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "1"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "cocinero": {
+                "@context": "http://schema.org",
+                "@type": "person",
+                "name": "Dabiz Muñoz",
+                "description": "David Muñoz (Madrid, 1980) es uno de los chefs con mayor proyección del panorama actual. Ha sido nombrado recientemente embajador turí­stico de la Comunidad de Madrid y cuenta en su haber con tres estrellas Michelin. Muñoz, un cocinero de vanguardia que se ha convertido en una joven promesa de la cocina española, regenta el popular restaurante DiverXO en la capital española y ha obtenido el Premio Nacional de Gastronomí­a en 2009. La cocina de Muñoz se caracteriza por su creatividad y por fusionar estilos culinarios diversos. Ofrece un concepto distinto de cocina, basado en los matices y los contrastes de sabores.",
+                "image": [
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Dabiz Munoz/david1.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Dabiz Munoz/david2.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Dabiz Munoz/david3.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Dabiz Munoz/david4.jpg"
+                    }
+                ],
+                "birthDate": "1980-01-15",
+                "birthPlace": "Madrid",
+                "awards": [
+                    "The Best Chef Awards (2021)"
+                ],
+                "url": ["audios/DabizMunoz/AudioDabiz.mp3", "audios/DabizMunoz/AudioDabiz.ogg"]
+            },
+            "restaurantes": {
+                "@context": "http://schema.org",
+                "@type": "LocalBussiness",
+                "restaurant": [
+                    {
+                        "@type": "Restaurant",
+                        "name": "Diverxo",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 40.45791,
+                            "longitude": -3.68580
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "3"
+                        }
+                    },
+                    {
+                        "@type": "Restaurant",
+                        "name": "StreetXO",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 40.42764,
+                            "longitude": -3.68713
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "0"
+                        }
+                    },
+                    {
+                        "@type": "Restaurant",
+                        "name": "GoXO Barcelona",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 41.3889470391622, 
+                            "longitude": 2.1359695922011066
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "0"
+                        }
+                    },
+                    {
+                        "@type": "Restaurant",
+                        "name": "RavioXO",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 40.448116388971414, 
+                            "longitude": -3.694256060225284
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "0"
+                        }
+                    },
+                    {
+                        "@type": "Restaurant",
+                        "name": "GoXO",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 40.44474,
+                            "longitude": -3.67403
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "0"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "cocinero": {
+                "@context": "http://schema.org",
+                "@type": "person",
+                "name": "Martín Berasategui",
+                "description": "Martín Berasategui nace en 1960 en San Sebastián. Su formación como cocinero y gran parte de su vida se relacionan con el Bodegón Alejandro, popular casa de comidas regentada por sus padres y su tía, situada en la parte vieja de San Sebastián, en el que obtuvo su primera Estrella Michelin.",
+                "image": [
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Martin berasategui/martin1.webp"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Martin berasategui/martin2.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Martin berasategui/martin3.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Martin berasategui/martin4.jpg"
+                    }
+                ],
+                "birthDate": "1960-04-27",
+                "birthPlace": "San Sebastián.",
+                "awards": [
+                    "Mejor repostero español del año, mejor plato creativo y mejor plato del año (1995)",
+                    "Tambor de Oro de San Sebastián (2005)",
+                    "Mejor cocinero según la Academia de Gastronomía Española (1996)",
+                    "Grand Prix del Arte de la Cocina (1997)",
+                    "Medalla de Oro al mérito en las Bellas Artes otorgada por el Ministerio de Cultura de España (2019)"
+                ],
+                "url": ["audios/MartinBerasategui/MartinBerasategui.mp3", "audios/MartinBerasategui/MartinBerasategui.ogg"]
+            },
+            "restaurantes": {
+                "@context": "http://schema.org",
+                "@type": "LocalBussiness",
+                "restaurant": [
+                    {
+                        "@type": "Restaurant",
+                        "name": "Restaurante Eme Be Garrote",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 43.30058,
+                            "longitude": -2.00989
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "1"
+                        }
+                    },
+                    {
+                        "@type": "Restaurant",
+                        "name": "Monument Hotel",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 41.39378,
+                            "longitude": 2.16217
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "3"
+                        }
+                    },
+                    {
+                        "@type": "Restaurant",
+                        "name": "Hotel España",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 41.37990,
+                            "longitude": 2.17285
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "1"
+                        }
+                    },
+                    {
+                        "@type": "Restaurant",
+                        "name": "The Ritz-Carlton Abama",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 28.17117,
+                            "longitude": -16.79952
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "0"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "cocinero": {
+                "@context": "http://schema.org",
+                "@type": "person",
+                "name": "Jesús Sánchez",
+                "description": "Fue el último de los cocineros en incorporarse a esta lista, y seguro que para largo. Jesús Sánchez es el chef navarro que demuestra con su trabajo diario en Cenador de Amós que forma parte por méritos propios de este selecto club de elegidos. Su Cenador de Amós abrió sus puertas en Villaverde de Pontones en 1993, una pequeña localidad cántabra que ahora es destino imprescindible para los aficionados a la buena mesa. Allí nos presenta una cocina que mira abiertamente al cantábrico y a la huerta de su infancia manteniendo el equilibrio y haciendo muy suyo el concepto de sostenibilidad.",
+                "image": [
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Jesus sanchez/jesus1.webp"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Jesus sanchez/jesus2.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Jesus sanchez/jesus3.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Jesus sanchez/jesus4.jpg"
+                    }
+                ],
+                "birthDate": "1960-04-27",
+                "birthPlace": "San Sebastián.",
+                "awards": [
+                    "Premio Alfa-Romeo “A los mejores restaurantes de España”. (2001)",
+                    "Nombrado cofrade de honor de la cofradía del Espárrago de Navarra. (2010)",
+                    "Nombrado director del Aula de Gastronomía de la Universidad de Cantabria. (2013)",
+                    "Premio Arco Atlántico ” Mejor cocinero del Cantábrico” (2013)",
+                    "Premio Caldereta Calixto. (2013)",
+                    "Cofrade de honor de la Nécora. (2021)"
+                ],
+                "url": ["audios/JesusSanchez/JesusSanchez.mp3", "audios/JesusSanchez/JesusSanchez.ogg"]
+            },
+            "restaurantes": {
+                "@context": "http://schema.org",
+                "@type": "LocalBussiness",
+                "restaurant": [
+                    {
+                        "@type": "Restaurant",
+                        "name": "Cenador de Amós",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 43.41243,
+                            "longitude": -3.69921
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "3"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "cocinero": {
+                "@context": "http://schema.org",
+                "@type": "person",
+                "name": "Eneko Atxa",
+                "description": "La trayectoria de Eneko Atxa es una historia cocinada a base de honestidad, creatividad y esfuerzo. Tras convertirse en uno de los cocineros más jóvenes en conseguir la tercera estrella Michelin con Azurmendi***, su cocina crece y evoluciona, para dar paso a nuevas propuestas como sus proyectos internacionales ENEKO, BASQUE y NKO. Eneko Atxa es reconocido en más de medio mundo por su cocina, pero en su pueblo natal (Amorebieta – Bizkaia) él es y será siempre el hijo de Teresita y Jesus Mari. Su gastronomía es una oda al placer de lo identitario, a la comida de casa, y a sus orígenes. Te invitamos a recorrer su historia y descubrir al hombre tras el delantal.",
+                "image": [
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Eneko atxa/eneko1.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Eneko atxa/eneko2.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Eneko atxa/eneko3.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Eneko atxa/eneko4.jpg"
+                    }
+                ],
+                "birthDate": "1977-09-14",
+                "birthPlace": "Amorebieta-Echano.",
+                "awards": [
+                    "Campeón de España de cocina de autor para jóvenes chefs. (2002)",
+                    "Nominado al premio pil-pil a la técnica más innovadora. (2005)",
+                    "Premio Euskadi al Mejor Restaurador. (2007)",
+                    "Mejor restaurante de Europa según Opinionated About Dining” (2015)",
+                    "Azurmendi es nombrado segundo mejor restaurante del mundo según la Revista Elite Traveler. (2016)"
+                ],
+"url": ["audios/EnekoAtxa/EnekoAtxa.mp3", "audios/EnekoAtxa/EnekoAtxa.ogg"]
+            },
+            "restaurantes": {
+                "@context": "http://schema.org",
+                "@type": "LocalBussiness",
+                "restaurant": [
+                    {
+                        "@type": "Restaurant",
+                        "name": "Azurmendi",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 43.26058,
+                            "longitude": -2.81591
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "3"
+                        }
+                    },
+                    {
+                        "@type": "Restaurant",
+                        "name": "Eneko Sevilla",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 37.39128,
+                            "longitude": -5.99688
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "0"
+                        }
+                    },
+                    {
+                        "@type": "Restaurant",
+                        "name": "Eneko Lisboa",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 38.70365,
+                            "longitude": -9.17650
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "0"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "cocinero": {
+                "@context": "http://schema.org",
+                "@type": "person",
+                "name": "Quique Dacosta",
+                "description": "Quique Dacosta es uno de los conocidos chefs españoles más reconocidos, que cuenta con un total de tres estrellas Michelin gracias al restaurante que lleva su nombre y al restaurante El Poblet. De origen extremeño, pero afincado en Valencia, comenzó su carrera gastronómica en el año 1986. Actualmente, cuenta con varios restaurantes y bares distribuidos por varias ciudades de nuestro país.",
+                "image": [
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Quique dacosta/quique1.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Quique dacosta/quique2.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Quique dacosta/quique3.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Quique dacosta/quique4.jpg"
+                    }
+                ],
+                "birthDate": "1972-01-12",
+                "birthPlace": "Jarandilla de la Vera.",
+                "awards": [
+                    "Mejor restaurante de la Costa blanca, por el patronato de turismo. (1999)",
+                    "Empresa de restauración del año, por Rafael García Santos. (2003)",
+                    "Mejor restaurante de cocina creativa en los premios ABC, por Carlos Maribona. (2007)"
+                ],
+                "url": ""
+            },
+            "restaurantes": {
+                "@context": "http://schema.org",
+                "@type": "LocalBussiness",
+                "restaurant": [
+                    {
+                        "@type": "Restaurant",
+                        "name": "Quique Dacosta Restaurante",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 38.85374,
+                            "longitude": 0.08514
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "2"
+                        }
+                    },
+                    {
+                        "@type": "Restaurant",
+                        "name": "Deessa, en el hotel Ritz",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 40.41565,
+                            "longitude": -3.69255
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "0"
+                        }
+                    },
+                    {
+                        "@type": "Restaurant",
+                        "name": "El Poblet",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 39.56969,
+                            "longitude": -0.37451
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "0"
+                        }
+                    },
+                    {
+                        "@type": "Restaurant",
+                        "name": "Mercatbar",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 39.46574,
+                            "longitude": -0.36673
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "0"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "cocinero": {
+                "@context": "http://schema.org",
+                "@type": "person",
+                "name": "Ángel León",
+                "description": "Comenzó sus estudios de cocina en la Taberna del Alabardero, en Sevilla. Tres años después se marchó a Francia, donde trabajó en el restaurante Le Chapon Fin, en Burdeos. Regresó a España a trabajar junto al cocinero Fernando Córdoba en el restaurante El Faro, para posteriormente hacerse cargo de La Casa del Temple, en Toledo. Tras unos años, regresó a la provincia de Cádiz, para poner en marcha Aponiente en la localidad de El Puerto de Santa María, restaurante que regenta y con el que se ha dado a conocer en el mundo gastronómico español y mundial gracias a un estilo centrado en productos marinos que le ha valido el sobrenombre de “El Chef del Mar”.",
+                "image": [
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Angel leon/angel1.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Angel leon/angel2.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Angel leon/angel3.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Angel leon/angel4.jpg"
+                    }
+                ],
+                "birthDate": "1977-09-17",
+                "birthPlace": "Jerez de la Frontera.",
+                "awards": [
+                    "Sirve en su restaurante embutidos marinos y es galardonado con su primera Estrella Michelin. (2010)",
+                    "Se le otorga el distintivo por parte de la International Academy of Gastronomy, de Chef de l’Avenir. (2011)",
+                    "Segunda Estrella Michelin, en el que recibió la Medalla de Andalucía así como el Premio Nacional de Gastronomía. (2014)",
+                    "Cocinero del año en Europa tras haber presentado en la Universidad de Harvard las Luces Abisales comestibles. (2017)"
+                ],
+                "url": ""
+            },
+            "restaurantes": {
+                "@context": "http://schema.org",
+                "@type": "LocalBussiness",
+                "restaurant": [
+                    {
+                        "@type": "Restaurant",
+                        "name": "Aponiente",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 39.60325,
+                            "longitude": -6.21652
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "2"
+                        }
+                    },
+                    {
+                        "@type": "Restaurant",
+                        "name": "La Taberna del Chef del Mar",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 36.59993,
+                            "longitude": -6.22308
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "0"
+                        }
+                    },
+                    {
+                        "@type": "Restaurant",
+                        "name": "Alevante",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 36.34692,
+                            "longitude": -6.16487
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "0"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "cocinero": {
+                "@context": "http://schema.org",
+                "@type": "person",
+                "name": "Joan Roca",
+                "description": "Aunque se formó académicamente en la Escola d’Hosteleria de Girona, donde algunos años más tarde ejercería como profesor, su vocación culinaria empezó a forjarse en Can Roca, el restaurante familiar regentado por sus padres. Allí creció y entró por primera vez en contacto con la cocina. En la actualidad dirige su propio proyecto de restaurante, El Celler de Can Roca, que en 2017 cumple sus 30 años de vida.",
+                "image": [
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Joan Roca/roca1.webp"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Joan Roca/roca2.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Joan Roca/roca3.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Joan Roca/roca4.jpg"
+                    }
+                ],
+                "birthDate": "1964-02-11",
+                "birthPlace": "Gerona.",
+                "awards": [
+                    "Cocinero del Año según la Academia Española de Gastronomía. (2000)",
+                    "Doctor Honoris Causa de la Universidad de Gerona. (2010)",
+                    "El Celler de Can Roca es escogido como primer mejor restaurante del mundo por la revista británica The Restaurant Magazine (2013)",
+                    "El Celler de Can Roca vuelve a ser escogido como primer mejor restaurante del mundo (2015)"
+                ],
+                "url": ""
+            },
+            "restaurantes": {
+                "@context": "http://schema.org",
+                "@type": "LocalBussiness",
+                "restaurant": [
+                    {
+                        "@type": "Restaurant",
+                        "name": "Celler de Can Roca",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 41.99338,
+                            "longitude": 2.80825
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "2"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "cocinero": {
+                "@context": "http://schema.org",
+                "@type": "person",
+                "name": "Juan Mari Arzak",
+                "description": "Está donde está porque aprendió de su madre una cosa: a amar la cocina; aunque si por ella hubiese sido, este donostiarra no sería hoy el cocinero que revolucionó la cocina vasca. Su deseo era que estudiase, y no precisamente hostelería. Al fallecer el padre de Juan Mari, cuando él tenía 9 años, su madre le mandó a estudiar al colegio Alfonso XII de San Lorenzo de El Escorial, al tiempo que ella se mataba a trabajar al frente del caserón. Terminó el bachiller y encarriló su vida por los estudios de aparejador, pero, después de un año, decidió acceder a la Escuela Superior de Gastronomía de Madrid. Su corazón le decía que tenía que continuar con la saga Arzak al frente del restaurante que fundó su abuelo en 1897.",
+                "image": [
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Juan Mari Arzak/mari1.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Juan Mari Arzak/mari2.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Juan Mari Arzak/mari3.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Juan Mari Arzak/mari4.jpg"
+                    }
+                ],
+                "birthDate": "1942-06-31",
+                "birthPlace": "San Sebastián.",
+                "awards": [
+                    "Premio Nacional de Gastronomía como mejor cocinero. (1974)",
+                    "Mejor cocinero de España por la Revista Club de Gourmets. (1983)",
+                    "Entrada en la cadena Tradition & Qualité. (1989)",
+                    "Premio Nacional de Gastronomía como mejor Restaurante. (2007)",
+                    "Premio Especial de la Gastronomía Austriaca, concedido por la revista A la carte. (2008)",
+                    "Premio Nacional de Gastronomía tradicional Lola Torres. (2010)"
+                ],
+                "url": ""
+            },
+            "restaurantes": {
+                "@context": "http://schema.org",
+                "@type": "LocalBussiness",
+                "restaurant": [
+                    {
+                        "@type": "Restaurant",
+                        "name": "Restaurante Arark",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 43.32141,
+                            "longitude": -1.94931
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "1"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "cocinero": {
+                "@context": "http://schema.org",
+                "@type": "person",
+                "name": "Dani García",
+                "description": "Formado en la Escuela de Hostelería de Málaga La Cónsula -referente en Andalucía-, en 1996 inicia su carrera de la mano de Martín Berasategui. Durante su paso por Tragabuches (1998-2004), proyecto familiar donde se alza, con sólo 25 años, con su primera estrella Michelin. En Calima (2005-2013) se convierte en el primer chef biestrellado de Andalucía. En 2013 viaja a Nueva York lo que le permite conocer nuevos modelos de negocio, nuevas técnicas y nuevos ingredientes. Un año después, en 2014 en el hotel marbellí Puente Romano Beach Resort & Spa abre el Dani García Restaurante –reconocido con dos estrellas Michelin- y el BiBo Andalusian Brasserie & Tapas. Por último, en 2016 inaugura en Madrid BiBo Madrid en pleno Paseo de la Castellana. El grupo Dani García incluye además Dani García Eventos, un servicio de cáterin y la Fundación Dani García, la organización sin ánimo de lucro cuyo objetivo es la realización de actividades de interés social, investigación, educación y divulgación de los hábitos alimentarios como instrumento para la prevención, el diagnóstico y el tratamiento de las patologías infantiles.",
+                "image": [
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Dani García/dani1.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Dani García/dani2.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Dani García/dani3.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Dani García/dani4.jpg"
+                    }
+                ],
+                "birthDate": "1975-12-30",
+                "birthPlace": "Marbella.",
+                "awards": [
+                    "Premio Nacional de Gastronomía como mejor cocinero. (1974)",
+                    "Mejor cocinero de España por la Revista Club de Gourmets. (1983)",
+                    "Entrada en la cadena Tradition & Qualité. (1989)",
+                    "Premio Nacional de Gastronomía como mejor Restaurante. (2007)",
+                    "Premio Especial de la Gastronomía Austriaca, concedido por la revista A la carte. (2008)",
+                    "Premio Nacional de Gastronomía tradicional Lola Torres. (2010)"
+                ],
+                "url": ""
+            },
+            "restaurantes": {
+                "@context": "http://schema.org",
+                "@type": "LocalBussiness",
+                "restaurant": [
+                    {
+                        "@type": "Restaurant",
+                        "name": "Atelier",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 36.49954,
+                            "longitude": -4.93935
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "1"
+                        }
+                    },
+                    {
+                        "@type": "Restaurant",
+                        "name": "BiBo",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 36.50396,
+                            "longitude": -4.92521
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "0"
+                        }
+                    },
+                    {
+                        "@type": "Restaurant",
+                        "name": "Leña Madrid. Las brasas",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 40.43866,
+                            "longitude": -3.69156
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "0"
+                        }
+                    },
+                    {
+                        "@type": "Restaurant",
+                        "name": "La Gran Familia",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 40.46438,
+                            "longitude": -3.64807
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "0"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "cocinero": {
+                "@context": "http://schema.org",
+                "@type": "person",
+                "name": "Pedro Subijana",
+                "description": "Empezó en la Escuela de Hostelería de la Casa de Campo, en Madrid. Después, pasó a formarse como alumno en la Escuela de Hostelería de Luis Irizar en Zarauz, de la que llegaría a ser profesor. Tras sus primeros pasos profesionales en Tolosa, Hernani, Madrid y Estella, llega al restaurante Akelarre como cocinero.",
+                "image": [
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Pedro Subijana/subi1.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Pedro Subijana/subi2.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Pedro Subijana/subi3.jpg"
+                    },
+                    {
+                        "@type": "ImageObject",
+                        "name": "../images/Cocineros/Pedro Subijana/subi4.jpg"
+                    }
+                ],
+                "birthDate": "1948-11-05",
+                "birthPlace": "San Sebastián.",
+                "awards": [
+                    "Premio Nacional de Gastronomía al Mejor Cocinero. (1979)",
+                    "Premio Club Gourmets al Mejor Cocinero de España. (1982)",
+                    "El Grupo Gourmets le concede de nuevo, el Premio al Cocinero del año. (1997)",
+                    "Es nombrado Presidente de Eurotoques Internacional. (2003)",
+                    "Recibe el tambor de oro de San Sebastián. (2015)",
+                    "Premios Pilpil. (2017)"
+                ],
+                "url": ""
+            },
+            "restaurantes": {
+                "@context": "http://schema.org",
+                "@type": "LocalBussiness",
+                "restaurant": [
+                    {
+                        "@type": "Restaurant",
+                        "name": "Restaurante Akelarre",
+                        "geo": {
+                            "@type": "GeoCoordinates",
+                            "latitude": 43.30774,
+                            "longitude": -2.04314
+                        },
+                        "starRating": {
+                            "@type": "Rating",
+                            "ratingValue": "3"
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}

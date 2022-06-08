@@ -1,0 +1,40 @@
+@media print {
+  header{
+    display: none;
+  }
+  footer{
+    display:none;
+  }
+  .contenedorIntro{
+    display: none;
+  }
+  .grafica{
+    display: none;
+  }
+  .contenedor .video{
+    display: none;
+  }
+
+  .contenedorCocineros{
+    grid-template-rows: repeat(5, auto);
+    grid-template-areas: 
+                         "imagen imagen imagen"
+                         "restaurantes restaurantes restaurantes"
+                        "contenido contenido contenido"
+                         "mapa mapa mapa"
+                         "noticias noticias noticias"
+  }
+  .contenedorCocineros .imagenes{
+    display: none;
+  }
+  .contenedorCocineros .audio{
+    display: none;
+  }
+  .contenedorComentarios {
+    display: none;
+  }
+  .canviarelemento{
+    display:none;
+  }
+  
+}
